@@ -1,0 +1,11 @@
+/* Scss Document */
+
+@import "style";
+
+body,
+h1,
+h2,
+h6 {
+  $color: #CB132E;
+  color: $color;
+}

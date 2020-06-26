@@ -1,3 +1,3 @@
 # -sass-challenge
 
-https://ezgihendrickx.github.io/-sass-challenge/
+https://ezgi-sass-challenge.netlify.app/ 

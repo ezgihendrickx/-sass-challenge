@@ -1,11 +1,1 @@
-/* Scss Document */
-
-@import "_style";
-
-body,
-h1,
-h2,
-h6 {
-  $color: #CB132E;
-  color: $color;
-}
+@import url(_style);body,h1,h2,h6{color:$color}
